@@ -5,5 +5,5 @@ Proof-of-Concept Exploratory Computational Study of SalA binding to KOR
 <img src="images/ligands.jpg" width="700">
 </p>
 <p align="center">
-  Chemical structures of representative ligands to be investigated in this project.
+  Chemical structures of representative ligands to be investigated in the project.
 </p>
