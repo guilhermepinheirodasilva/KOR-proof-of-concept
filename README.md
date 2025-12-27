@@ -2,4 +2,4 @@
 Proof-of-Concept Exploratory Computational Study of SalA binding to KOR
 
 
-<img src="images/ligands.png" width="600">
+<img src="images/ligands.jpg" width="600">
