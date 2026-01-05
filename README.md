@@ -58,6 +58,10 @@ While the animations shown in Figures 1–6 are visual representations, the unde
   <em>Figure 7 - Chemical structures of representative ligands to be investigated in the project.</em>
 </p>
 
+The SalB metabolite (compound 4) is inactive at KOR; however, it exhibits high structural similarity to SalA. Analyzing its interaction field may be relevant, serving as a structural “negative control” within the chemical space for scaffold hopping.
+
+In addition, other compounds previously reported in the literature as KOR-selective, despite not being structurally related to SalA, could also be evaluated (i.e., compounds 6, 7, and 8).
+
 ---
 
 ### Simulation status and information
