@@ -14,8 +14,8 @@ Further methodological refinement, quantitative validation, and experimental int
 
 ## Key visual results
 
-### Spatiotemporal pocket fields (GIFs)
-- **Hydrophobicity, aromaticity, interpolated charge, hydrogen bonding, solvent-accessible surface (SASA), and ionizability** (examples)
+### Spatiotemporal pocket fields
+- **Hydrophobicity, aromaticity, interpolated charge, hydrogen bonding, solvent-accessible surface (SASA), and ionizability**.
 
 <p align="center">
   <img src="images/kor_salA_aromaticity.gif" width="500">
@@ -28,7 +28,7 @@ Six dynamic pocket field maps were obtained from an exploratory MD simulation of
 
 An important observation is that the same spatial grid can be used to represent different physicochemical properties, with only the scalar field values changing across channels throughout the trajectories.
 
-The integration of multi-channel spatiotemporal descriptors (combined with data obtained from additional KOR complexes; proposed ligands seen in Figure 7) would provide dynamic fingerprinting data for **machine learning–assisted extraction of interaction patterns and design rules**, potentially guiding scaffold exploration and optimization toward KOR selectivity.
+The integration of multi-channel spatiotemporal descriptors (combined with data obtained from additional KOR complexes; proposed ligands seen in Figure 7) would provide dynamic fingerprinting data for **machine learning–assisted extraction of interaction patterns**, potentially guiding design rules for scaffold exploration and optimization toward KOR selectivity.
 
 While the animations shown in Figures 1–6 are visual representations, the underlying data could be extracted in numerical form.
 
@@ -41,9 +41,8 @@ While the animations shown in Figures 1–6 are visual representations, the unde
 
 ---
 
-### Simulation status
-
-The preliminary molecular dynamic simulations are currently ongoing.  
+### Simulation status and information
+The preliminary molecular dynamics simulations are currently ongoing.  
 The analyses and results presented correspond to partial trajectories (29 ns) obtained from a planned 200 ns production run.
 Salvinorin A structure was obtained from Automated Topology Builder (ATB) and Repository. KOR structure was retrieved from Protein Data Bank (PBD ID 6B73).
 The KOR–SalA complex was obtained using AutoDock Vina, and the molecular dynamics simulation was performed with GROMACS.
