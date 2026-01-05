@@ -20,7 +20,7 @@ All animations shown below are intended for qualitative inspection only.
 <img src="https://raw.githubusercontent.com/guilhermepinheirodasilva/KOR-proof-of-concept/main/images/kor_salA_hydrophobicity_opt.gif" width="500">
 
 ## Ionizability
-<img src="kor_salA_ionizability_opt.gif" width="500">
+<img src="https://raw.githubusercontent.com/guilhermepinheirodasilva/KOR-proof-of-concept/main/images/kor_salA_ionizability_opt.gif" width="500">
 
 ## Solvent-Accessible Surface Area
 <img src="kor_salA_sasa_opt.gif" width="500">
