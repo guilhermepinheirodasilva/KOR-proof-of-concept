@@ -7,7 +7,7 @@ The animations are derived from a fixed spatial grid defined in Discovery Studio
 
 All animations shown below are intended for qualitative inspection only.
 
-Manual frame-by-frame visualization rapidly becomes impractical as the number of channels increases, highlighting the need for automated data-driven analysis. 
+Manual frame-by-frame visualization rapidly becomes impractical as the number of channels increases, highlighting the need for automated data-driven analysis. The proposed PhD project aims to replace visual inspection with automated extraction of grid-based descriptors. 
 
 ## Aromaticity
 <img src="https://raw.githubusercontent.com/guilhermepinheirodasilva/KOR-proof-of-concept/main/images/kor_salA_aromaticity_op.gif" width="500">
@@ -26,12 +26,3 @@ Manual frame-by-frame visualization rapidly becomes impractical as the number of
 
 ## Solvent-Accessible Surface Area
 <img src="https://raw.githubusercontent.com/guilhermepinheirodasilva/KOR-proof-of-concept/main/images/kor_salA_sasa.gif" width="500">
-
----
-
-## Notes
-
-The preliminary molecular dynamics simulations are currently ongoing.  
-
-The analyses and results presented correspond to partial trajectories (29 ns) obtained from a planned 200 ns production run.
-
