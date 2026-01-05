@@ -21,7 +21,7 @@ Further methodological refinement, quantitative validation, and experimental int
   <img src="images/kor_salA_aromaticity.gif" width="500">
 </p>
 <p align="center">
-  <em>Figure 1 - Dynamic aromacity fingerprint profile in the binding site of the KOR–SalA complex.</em>
+  <em>Figure 1 - Dynamic aromaticity fingerprint profile in the binding site of the KOR–SalA complex.</em>
 </p>
 
 
