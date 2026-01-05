@@ -43,6 +43,6 @@ While the animations shown in Figure 1-6 are visual representations, the underly
 
 ### Simulation status
 
-The preliminary molecular dynamics simulations are currently ongoing.  
-The analyses and results presented here correspond to **partial trajectories (29 ns)** obtained from a planned **200 ns production run**.
+The preliminary molecular dynamic simulations are currently ongoing.  
+The analyses and results presented here correspond to partial trajectories (29 ns) obtained from a planned 200 ns production run.
 The KOR–SalA complex was obtained on AutoDock Vina, and simulation was performed on GROMACS.
