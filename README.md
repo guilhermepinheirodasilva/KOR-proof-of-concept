@@ -6,7 +6,7 @@ This repository contains supporting material for my application as a PhD candida
 
 The contents presented here consist of exploratory computational analyses and proof-of-concept studies conducted to assess the feasibility of molecular dynamics–guided approaches for the investigation and rational design of novel KOR ligands.
 
-Animated visualizations are provided to illustrate exploratory dynamic pocket inspection derived from molecular dynamics (MD) simulations. These initial animations are intended for **qualitative assessment only**.
+Animated visualizations are provided to illustrate exploratory inspection of dynamic binding pocket properties derived from molecular dynamics (MD) simulations. These initial animations are intended for **qualitative assessment only**.
 
 Further methodological refinement, quantitative validation, and experimental integration would be anticipated as part of the proposed doctoral research.
 
@@ -44,5 +44,6 @@ While the animations shown in Figures 1–6 are visual representations, the unde
 ### Simulation status
 
 The preliminary molecular dynamic simulations are currently ongoing.  
-The analyses and results presented here correspond to partial trajectories (29 ns) obtained from a planned 200 ns production run.
-The KOR–SalA complex was obtained on AutoDock Vina, and simulation was performed on GROMACS.
+The analyses and results presented correspond to partial trajectories (29 ns) obtained from a planned 200 ns production run.
+Salvinorin A structure was obtained from Automated Topology Builder (ATB) and Repository. KOR structure was retrieved from Protein Data Bank (PBD ID 6B73).
+The KOR–SalA complex was obtained using AutoDock Vina, and the molecular dynamics simulation was performed with GROMACS.
