@@ -48,9 +48,9 @@ The complete collection of spatiotemporal pocket field visualizations is availab
   <em>Figure 3 - Chemical structures of representative ligands to be investigated in the project.</em>
 </p>
 
-The SalB metabolite (compound 4) is inactive at KOR; however, it exhibits high structural similarity to SalA. Analyzing its interaction field may be relevant, serving as a structural “negative control” within the chemical space for scaffold hopping.
+The SalB metabolite (compound 4), although structurally highly similar to Salvinorin A, is inactive at KOR. Its inclusion in the analysis provides a chemically meaningful "negative" reference, enabling the identification of interaction field features that are necessary but not sufficient for receptor modulation. Comparing the spatiotemporal interaction fields of  SalA and SalB may therefore help finetune subtle physicochemical determinants underlying KOR activation and selectivity, offering valuable constraints for scaffold hopping strategies.
 
-In addition, other compounds previously reported in the literature as KOR-selective, despite not being structurally similar to SalA, could also be evaluated (i.e., compounds 6, 7, and 8).
+Furthermore, evaluating structurally unrelated KOR-selective ligands (e.g., compounds 6, 7, and 8) would allow assessment of whether these interaction field patterns generalize across distinct chemical scaffolds, a key requirement for robust scaffold hopping.
 
 ---
 
@@ -60,4 +60,4 @@ The preliminary molecular dynamics simulations are currently ongoing.
 
 The Salvinorin A structure was obtained from the Automated Topology Builder (ATB) and Repository. KOR structure was retrieved from Protein Data Bank (PDB ID 6B73).
 
-The KOR–SalA complex was obtained using AutoDock Vina, and the molecular dynamics simulation was performed with GROMACS.
+The KOR–SalA complex was generated using AutoDock Vina, and the molecular dynamics simulation was performed with GROMACS.
