@@ -55,8 +55,9 @@ Furthermore, evaluating KOR-selective ligands structurally unrelated to SalA (e.
 
 ### Simulation status and information
 
-The preliminary molecular dynamics simulations are currently ongoing.
+The preliminary molecular dynamics simulations are currently still ongoing.
 
-The Salvinorin A structure was obtained from the Automated Topology Builder (ATB) and Repository. KOR structure was retrieved from Protein Data Bank (PDB ID 6B73).
+The Salvinorin A structure was obtained from the Automated Topology Builder (ATB) and Repository. 
+KOR structure was retrieved from Protein Data Bank (PDB ID 6B73).
 
 The KOR–SalA complex was generated using AutoDock Vina, and the molecular dynamics simulation was performed with GROMACS.
