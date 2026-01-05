@@ -56,6 +56,8 @@ In addition, other compounds previously reported in the literature as KOR-select
 
 ### Simulation status and information
 
+The preliminary molecular dynamics simulations are currently ongoing.
+
 The Salvinorin A structure was obtained from the Automated Topology Builder (ATB) and Repository. KOR structure was retrieved from Protein Data Bank (PDB ID 6B73).
 
 The KOR–SalA complex was obtained using AutoDock Vina, and the molecular dynamics simulation was performed with GROMACS.
