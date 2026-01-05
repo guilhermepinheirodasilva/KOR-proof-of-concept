@@ -29,6 +29,8 @@ An important observation is that the same spatial grid can be used to represent 
 
 The integration of multi-channel spatiotemporal descriptors (combined with data obtained from additional KOR complexes; proposed ligands seen in Figure 7) would provide dynamic fingerprinting data for **machine learning-assisted extraction of interaction patterns**, potentially guiding design rules for scaffold exploration and optimization toward KOR selectivity.
 
+While the animations shown in Figures 1–6 are visual representations, the underlying data could be extracted in numerical form.
+
 <p align="center">
   <em>Figure 2 - Dynamic hydrogen bonding profile of the KOR–SalA complex.</em>
 </p>
@@ -40,8 +42,6 @@ The integration of multi-channel spatiotemporal descriptors (combined with data 
 <p align="center">
   <em>Figure 4 - Dynamic hydrophobicity profile of the KOR–SalA complex.</em>
 </p>
-
-While the animations shown in Figures 1–6 are visual representations, the underlying data could be extracted in numerical form.
 
 <p align="center">
   <em>Figure 5 - Ionizability dynamic profile of the KOR–SalA complex.</em>
