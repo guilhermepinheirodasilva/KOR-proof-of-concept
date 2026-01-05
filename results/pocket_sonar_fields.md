@@ -7,6 +7,8 @@ The animations are derived from a fixed spatial grid defined in Discovery Studio
 
 All animations shown below are intended for qualitative inspection only.
 
+Manual frame-by-frame visualization rapidly becomes impractical as the number of channels increases, highlighting the need for automated data-driven analysis. 
+
 ## Aromaticity
 <img src="https://raw.githubusercontent.com/guilhermepinheirodasilva/KOR-proof-of-concept/main/images/kor_salA_aromaticity_op.gif" width="500">
 
@@ -23,7 +25,7 @@ All animations shown below are intended for qualitative inspection only.
 <img src="https://raw.githubusercontent.com/guilhermepinheirodasilva/KOR-proof-of-concept/main/images/kor_salA_ionizability_opt.gif" width="500">
 
 ## Solvent-Accessible Surface Area
-<img src="kor_salA_sasa_opt.gif" width="500">
+<img src="https://raw.githubusercontent.com/guilhermepinheirodasilva/KOR-proof-of-concept/main/images/kor_salA_sasa.gif" width="500">
 
 ---
 
