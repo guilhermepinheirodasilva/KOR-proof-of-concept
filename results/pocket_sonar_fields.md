@@ -1,11 +1,12 @@
 # Spatiotemporal Pocket Field Animations
 
-This page presents the complete set of dynamic pocket field visualizations obtained from an exploratory molecular dynamics (MD) simulation of the
+This page presents the complete set of dynamic pocket field visualizations obtained from an exploratory molecular dynamics simulation of the
 KOR–SalA complex.
 
-The animations are derived from a fixed spatial grid defined in Discovery Studio 2024, where different physicochemical properties are represented as scalar fields evolving over time. All animations shown below are intended for qualitative inspection only.
+The animations were generated from .pdb snapshots of the MD simulation using a fixed spatial grid defined in Discovery Studio 2024, with different physicochemical properties represented as time-evolving scalar fields. These visualizations are intended for qualitative assessment only.
 
-Manual frame-by-frame visualization rapidly becomes impractical as the number of channels increases, highlighting the need for automated data-driven analysis. The proposed PhD project aims to replace visual inspection with automated extraction of grid-based descriptors. 
+As the number of mapped properties (channels) increases, manual frame-by-frame inspection becomes impractical, underscoring the need for automated, data-driven analysis. Accordingly, the proposed PhD project aims to automate the extraction of grid-based descriptors for scalable computational workflows.
+
 
 ## Aromaticity
 <img src="https://raw.githubusercontent.com/guilhermepinheirodasilva/KOR-proof-of-concept/main/images/kor_salA_aromaticity_op.gif" width="500">
