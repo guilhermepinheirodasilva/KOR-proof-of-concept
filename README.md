@@ -63,4 +63,5 @@ KOR structure was retrieved from Protein Data Bank (PDB ID 6B73).
 The KOR–SalA complex was generated using AutoDock Vina, and the molecular dynamics simulation was performed on GROMACS 2025.4.
 
 The MD system was prepared via CHARMM-GUI using the AMBER FF19SB force field and solvated in OPC water with 0.15 mol/L NaCl, assuming standard protonation states at physiological pH (~7.0).
+
 After energy minimization and NVT equilibration, the system was gradually heated (10 ns at 200 K, followed by 10 ns at 250 K) before production at 310.15 K under NPT conditions.
