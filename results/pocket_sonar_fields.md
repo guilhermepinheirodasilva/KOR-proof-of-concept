@@ -3,9 +3,7 @@
 This page presents the complete set of dynamic pocket field visualizations obtained from an exploratory molecular dynamics (MD) simulation of the
 KOR–SalA complex.
 
-The animations are derived from a fixed spatial grid defined in Discovery Studio 2024, where different physicochemical properties are represented as scalar fields evolving over time.
-
-All animations shown below are intended for qualitative inspection only.
+The animations are derived from a fixed spatial grid defined in Discovery Studio 2024, where different physicochemical properties are represented as scalar fields evolving over time. All animations shown below are intended for qualitative inspection only.
 
 Manual frame-by-frame visualization rapidly becomes impractical as the number of channels increases, highlighting the need for automated data-driven analysis. The proposed PhD project aims to replace visual inspection with automated extraction of grid-based descriptors. 
 
