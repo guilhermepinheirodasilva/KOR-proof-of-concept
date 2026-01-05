@@ -38,6 +38,9 @@ While the animations shown in Figures 1 and 2 are visual representations, the un
   <em>Figure 2 - Hydrogen bonding dynamic profile of the KOR–SalA complex.</em>
 </p>
 
+The complete collection of spatiotemporal pocket field visualizations is available here: [`results/pocket_fields.md`](results/pocket_fields.md)
+
+
 <p align="center">
   <img src="images/ligands.jpg" width="700">
 </p>
