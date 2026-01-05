@@ -16,7 +16,7 @@ Further methodological refinement, quantitative validation, and experimental int
 
 ### Spatiotemporal pocket fields (GIFs)
 - **Hydrophobicity, aromaticity, interpolated charge, hydrogen bonding, solvent-accessible surface (SAS), and ionizability** (examples)
-- 
+
 <p align="center">
   <img src="images/kor_salA_aromaticity.gif" width="500">
 </p>
