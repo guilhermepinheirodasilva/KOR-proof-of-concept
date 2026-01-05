@@ -22,7 +22,7 @@ Six dynamic pocket fields were obtained from an exploratory MD simulation of the
   <img src="images/kor_salA_aromaticity_opt.gif" width="500">
 </p>
 <p align="center">
-  <em>Figure 1 - Dynamic aromaticity fingerprint profile in the binding site of the KOR–SalA complex.</em>
+  <em>Figure 1 - Aromaticity dynamic profile in the binding site of the KOR–SalA complex.</em>
 </p>
 
 An important observation is that the same spatial grid can be used to represent different physicochemical properties, with only the scalar field values changing across channels throughout the trajectories.
@@ -32,7 +32,7 @@ The integration of multi-channel spatiotemporal descriptors (combined with data 
 While the animations shown in Figures 1–6 are visual representations, the underlying data could be extracted in numerical form.
 
 <p align="center">
-  <em>Figure 2 - Dynamic hydrogen bonding profile of the KOR–SalA complex.</em>
+  <em>Figure 2 - Hydrogen bonding dynamic profile of the KOR–SalA complex.</em>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ While the animations shown in Figures 1–6 are visual representations, the unde
 </p>
 
 <p align="center">
-  <em>Figure 4 - Dynamic hydrophobicity profile of the KOR–SalA complex.</em>
+  <em>Figure 4 - Hydrophobicity dynamic profile of the KOR–SalA complex.</em>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ While the animations shown in Figures 1–6 are visual representations, the unde
 </p>
 
 <p align="center">
-  <em>Figure 6 - Solvent-accessible Surface Area dynamic profile of the KOR–SalA complex.</em>
+  <em>Figure 6 - Solvent-Accessible Surface Area dynamic profile of the KOR–SalA complex.</em>
 </p>
 
 <p align="center">
