@@ -18,7 +18,7 @@ Further methodological refinement, quantitative validation, and experimental int
 - **Hydrophobicity, aromaticity, interpolated charge, hydrogen bonding, solvent-accessible surface (SASA), and ionizability**.
 
 <p align="center">
-  <img src="images/kor_salA_aromaticity.gif" width="500">
+  <img src="images/kor_salA_aromaticity_opt.gif" width="500">
 </p>
 <p align="center">
   <em>Figure 1 - Dynamic aromaticity fingerprint profile in the binding site of the KOR–SalA complex.</em>
