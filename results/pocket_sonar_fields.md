@@ -22,7 +22,7 @@ All animations shown below are intended for qualitative inspection only.
 ## Ionizability
 <img src="kor_salA_ionizability_opt.gif" width="500">
 
-## Solvent-Accessible Surface Area (SASA)
+## Solvent-Accessible Surface Area
 <img src="kor_salA_sasa_opt.gif" width="500">
 
 ---
