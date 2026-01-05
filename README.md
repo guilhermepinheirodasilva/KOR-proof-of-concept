@@ -15,7 +15,7 @@ Further methodological refinement, quantitative validation, and experimental int
 
 ### Spatiotemporal pocket fields
 
-Six dynamic pocket fields were obtained from an exploratory MD simulation of the KOR–SalA complex, using a fixed spatial grid defined in Discovery Studio 2024: **aromaticity**, **hydrogen bonding**, **interpolated charge**, **hydrophobicity**, **ionizability**, and **solvent-accessible surface area (SASA)**.
+Six dynamic pocket fields were obtained from an exploratory MD simulation of the KOR–SalA complex, using a fixed spatial grid defined in Discovery Studio 2024: **aromaticity**, **hydrogen bonding**, **interpolated charge**, **hydrophobicity**, **ionizability**, and **solvent-accessible surface area**.
 
 <p align="center">
 <img src="images/kor_salA_aromaticity_op.gif" width="600">
@@ -55,9 +55,11 @@ Furthermore, evaluating KOR-selective ligands structurally unrelated to SalA (e.
 
 ### Simulation status and information
 
-The preliminary molecular dynamics simulations are currently still ongoing.
+The preliminary molecular dynamics simulations for the KOR–SalA complex are currently still ongoing.
 
 The Salvinorin A structure was obtained from the Automated Topology Builder (ATB) and Repository. 
 KOR structure was retrieved from Protein Data Bank (PDB ID 6B73).
 
-The KOR–SalA complex was generated using AutoDock Vina, and the molecular dynamics simulation was performed with GROMACS.
+The KOR–SalA complex was generated using AutoDock Vina, and the molecular dynamics simulation was performed on GROMACS.
+The system was prepared via CHARMM-GUI using the AMBER FF19SB force field, solvated in TIP3P water with 0.15 mol/L NaCl at pH 7.0.
+After energy minimization and NVT equilibration, the system was gradually heated (10 ns at 200 K, then 10 ns at 250 K) before production at 310.15 K under NPT conditions.
