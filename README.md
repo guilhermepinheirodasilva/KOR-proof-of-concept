@@ -1,7 +1,7 @@
 # KOR-proof-of-concept  
 **Exploratory Computational Study of Salvinorin A Binding to the Kappa Opioid Receptor**
 
-This repository contains supporting material for my application as a PhD candidate to the **International Max Planck Research School for Biology and Computation (IMPRS-BAC)**, within the project  
+This repository contains supporting material for my application as a PhD candidate to the International Max Planck Research School for Biology and Computation (IMPRS-BAC), within the project  
 *“Computational Design of Tailored Kappa Opioid Receptor (KOR) Modulators”*.
 
 The contents presented here consist of exploratory computational analyses and proof-of-concept studies conducted to assess the feasibility of molecular dynamics-guided approaches for the investigation and rational design of novel KOR ligands.
