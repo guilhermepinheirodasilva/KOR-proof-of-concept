@@ -50,7 +50,7 @@ The complete collection of spatiotemporal pocket field visualizations is availab
 
 The SalB metabolite (compound 4), although structurally highly similar to Salvinorin A, is inactive at KOR. Its inclusion in the analysis provides a chemically meaningful "negative" reference, enabling the identification of interaction field features that are necessary but not sufficient for receptor modulation. Comparing the spatiotemporal interaction fields of  SalA and SalB may therefore help finetune subtle physicochemical determinants underlying KOR activation and selectivity, offering valuable constraints for scaffold hopping strategies.
 
-Furthermore, evaluating structurally unrelated KOR-selective ligands (e.g., compounds 6, 7, and 8) would allow assessment of whether these interaction field patterns generalize across distinct chemical scaffolds, a key requirement for robust scaffold hopping.
+Furthermore, evaluating KOR-selective ligands structurally unrelated to SalA (e.g., compounds 6, 7, and 8) would allow assessment of whether these interaction field patterns generalize across distinct chemical scaffolds, a key requirement for robust scaffold hopping.
 
 ---
 
