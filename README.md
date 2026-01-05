@@ -24,7 +24,7 @@ Further methodological refinement, quantitative validation, and experimental int
   <em>Figure 1 - Dynamic aromaticity fingerprint profile in the binding site of the KOR–SalA complex.</em>
 </p>
 
-Six sonar-like dynamic pocket field maps were generated from an exploratory MD simulation of the KOR–SalA complex, using a fixed spatial grid defined in Discovery Studio 2024.
+Six dynamic pocket field maps were obtained from an exploratory MD simulation of the KOR–SalA complex, using a fixed spatial grid defined in Discovery Studio 2024.
 
 An important observation is that the same spatial grid can be used to represent different physicochemical properties, with only the scalar field values changing across channels throughout the trajectories.
 
