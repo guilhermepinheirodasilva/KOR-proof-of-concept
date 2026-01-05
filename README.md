@@ -65,6 +65,6 @@ The preliminary molecular dynamics simulations are currently ongoing.
 
 The analyses and results presented correspond to partial trajectories (29 ns) obtained from a planned 200 ns production run.
 
-Salvinorin A structure was obtained from Automated Topology Builder (ATB) and Repository. KOR structure was retrieved from Protein Data Bank (PBD ID 6B73).
+The Salvinorin A structure was obtained from Automated Topology Builder (ATB) and Repository. KOR structure was retrieved from Protein Data Bank (PBD ID 6B73).
 
 The KOR–SalA complex was obtained using AutoDock Vina, and the molecular dynamics simulation was performed with GROMACS.
