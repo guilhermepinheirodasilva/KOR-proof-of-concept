@@ -19,7 +19,7 @@ Further methodological refinement, quantitative validation, and experimental int
 Six dynamic pocket fields were obtained from an exploratory MD simulation of the KOR–SalA complex, using a fixed spatial grid defined in Discovery Studio 2024: **aromaticity**, **hydrogen bonding**, **interpolated charge**, **hydrophobicity**, **ionizability**, and **solvent-accessible surface area (SASA)**.
 
 <p align="center">
-  <img src="images/kor_salA_aromaticity_opt.gif" width="500">
+  <img src="images/kor_salA_aromaticity_op.gif" width="500">
 </p>
 <p align="center">
   <em>Figure 1 - Aromaticity dynamic profile in the binding site of the KOR–SalA complex.</em>
