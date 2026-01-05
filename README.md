@@ -42,7 +42,7 @@ The complete collection of spatiotemporal pocket field visualizations is availab
 
 
 <p align="center">
-  <img src="images/ligands.jpg" width="650">
+  <img src="images/ligands.jpg" width="700">
 </p>
 <p align="center">
   <em>Figure 3 - Chemical structures of representative ligands to be investigated in the project.</em>
