@@ -5,7 +5,7 @@ KOR–SalA complex.
 
 The animations were generated from *.pdb* snapshots of the MD simulation using a fixed spatial grid defined in Discovery Studio 2024, with different physicochemical properties represented as time-evolving scalar fields. These visualizations are intended for qualitative assessment only.
 
-As the number of mapped properties (channels) increases, manual frame-by-frame inspection becomes impractical, underscoring the need for automated, data-driven analysis. Accordingly, the proposed PhD project aims to automate the extraction of grid-based descriptors for scalable computational workflows.
+As the number of mapped properties (channels) increases, manual frame-by-frame inspection becomes impractical, highlighting the need for automated, data-driven analysis. Accordingly, the proposed PhD project aims to automate the extraction of grid-based descriptors for scalable computational workflows.
 
 
 ## Aromaticity
