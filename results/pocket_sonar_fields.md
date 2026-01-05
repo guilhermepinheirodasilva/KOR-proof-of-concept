@@ -10,37 +10,37 @@ All animations shown below are intended for qualitative inspection only.
 **Aromaticity**
 
 <p align="center">
-  <img src="images/kor_salA_aromaticity_op.gif" width="500">
+<img src="kor_salA_aromaticity_op.gif" width="500">
 </p>
 
 **Hydrogen Bonding**
 
 <p align="center">
-  <img src="images/kor_salA_hbonds_opt.gif" width="500">
+<img src="kor_salA_hbonds_opt.gif" width="500">
 </p>
 
 **Interpolated Charge**
 
 <p align="center">
-  <img src="images/kor_salA_charge_opt.gif" width="500">
+<img src="kor_salA_charge_opt.gif" width="500">
 </p>
 
 **Hydrophobicity**
 
 <p align="center">
-<img src="../images/kor_salA_hydrophobicity_opt.gif" width="600">
+<img src="kor_salA_hydrophobicity_opt.gif" width="500">
 </p>
 
 **Ionizability**
 
 <p align="center">
-<img src="../images/kor_salA_ionizability_opt.gif" width="600">
+<img src="kor_salA_ionizability_opt.gif" width="500">
 </p>
 
 **Solvent-Accessible Surface Area (SASA)**
 
 <p align="center">
-<img src="../images/kor_salA_sasa_opt.gif" width="600">
+<img src="kor_salA_sasa_opt.gif" width="500">
 </p>
 
 ---
