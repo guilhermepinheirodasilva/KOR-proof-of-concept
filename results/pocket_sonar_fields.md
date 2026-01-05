@@ -7,44 +7,32 @@ The animations are derived from a fixed spatial grid defined in Discovery Studio
 
 All animations shown below are intended for qualitative inspection only.
 
-<p align="center">
-Aromaticity
-</p>
+## Aromaticity
 <p align="center">
 <img src="https://raw.githubusercontent.com/guilhermepinheirodasilva/KOR-proof-of-concept/main/images/kor_salA_aromaticity_op.gif" width="500">
 </p>
 
-<p align="center">
-Hydrogen Bonding
-</p>
+## Hydrogen Bonding
 <p align="center">
 <img src="https://raw.githubusercontent.com/guilhermepinheirodasilva/KOR-proof-of-concept/main/images/kor_salA_hbonds_opt.gif" width="500">
 </p>
 
-<p align="center">
-Interpolated Charge
-</p>
+## Interpolated Charge
 <p align="center">
 <img src="https://raw.githubusercontent.com/guilhermepinheirodasilva/KOR-proof-of-concept/main/images/kor_salA_charge_opt.gif" width="500">
 </p>
 
-<p align="center">
-Hydrophobicity
-</p>
+## Hydrophobicity
 <p align="center">
 <img src="kor_salA_hydrophobicity_opt.gif" width="500">
 </p>
 
-<p align="center">
-Ionizability
-</p>
+## Ionizability
 <p align="center">
 <img src="kor_salA_ionizability_opt.gif" width="500">
 </p>
 
-<p align="center">
-Solvent-Accessible Surface Area (SASA)
-</p>
+## Solvent-Accessible Surface Area (SASA)
 <p align="center">
 <img src="kor_salA_sasa_opt.gif" width="500">
 </p>
