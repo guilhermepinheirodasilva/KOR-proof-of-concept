@@ -32,6 +32,9 @@ The integration of multi-channel spatiotemporal descriptors (combined with data 
 While the animations shown in Figures 1–6 are visual representations, the underlying data could be extracted in numerical form.
 
 <p align="center">
+  <img src="images/kor_salA_hbonds.gif" width="500">
+</p>
+<p align="center">
   <em>Figure 2 - Hydrogen bonding dynamic profile of the KOR–SalA complex.</em>
 </p>
 
