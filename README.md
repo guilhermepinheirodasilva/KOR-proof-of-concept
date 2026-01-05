@@ -15,7 +15,8 @@ Further methodological refinement, quantitative validation, and experimental int
 ## Key visual results
 
 ### Spatiotemporal pocket fields
-- **Hydrophobicity, aromaticity, interpolated charge, hydrogen bonding, solvent-accessible surface (SASA), and ionizability**.
+
+Six dynamic pocket fields were obtained from an exploratory MD simulation of the KOR–SalA complex, using a fixed spatial grid defined in Discovery Studio 2024: **aromaticity**, **hydrogen bonding**, **interpolated charge**, **hydrophobicity**, **ionizability**, and **solvent-accessible surface area (SASA)**.
 
 <p align="center">
   <img src="images/kor_salA_aromaticity_opt.gif" width="500">
@@ -24,13 +25,31 @@ Further methodological refinement, quantitative validation, and experimental int
   <em>Figure 1 - Dynamic aromaticity fingerprint profile in the binding site of the KOR–SalA complex.</em>
 </p>
 
-Six dynamic pocket field maps were obtained from an exploratory MD simulation of the KOR–SalA complex, using a fixed spatial grid defined in Discovery Studio 2024.
-
 An important observation is that the same spatial grid can be used to represent different physicochemical properties, with only the scalar field values changing across channels throughout the trajectories.
 
 The integration of multi-channel spatiotemporal descriptors (combined with data obtained from additional KOR complexes; proposed ligands seen in Figure 7) would provide dynamic fingerprinting data for **machine learning-assisted extraction of interaction patterns**, potentially guiding design rules for scaffold exploration and optimization toward KOR selectivity.
 
+<p align="center">
+  <em>Figure 2 - Dynamic hydrogen bonding profile of the KOR–SalA complex.</em>
+</p>
+
+<p align="center">
+  <em>Figure 3 - Interpolated charge dynamic profile of the KOR–SalA complex.</em>
+</p>
+
+<p align="center">
+  <em>Figure 4 - Dynamic hydrophobicity profile of the KOR–SalA complex.</em>
+</p>
+
 While the animations shown in Figures 1–6 are visual representations, the underlying data could be extracted in numerical form.
+
+<p align="center">
+  <em>Figure 5 - Ionizability dynamic profile of the KOR–SalA complex.</em>
+</p>
+
+<p align="center">
+  <em>Figure 6 - Solvent-accessible Surface Area dynamic profile of the KOR–SalA complex.</em>
+</p>
 
 <p align="center">
   <img src="images/ligands.jpg" width="700">
