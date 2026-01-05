@@ -27,34 +27,15 @@ Six dynamic pocket fields were obtained from an exploratory MD simulation of the
 
 An important observation is that the same spatial grid can be used to represent different physicochemical properties, with only the scalar field values changing across channels throughout the trajectories.
 
-The integration of multi-channel spatiotemporal descriptors (combined with data obtained from additional KOR complexes; proposed ligands seen in Figure 7) would provide dynamic fingerprinting data for **machine learning-assisted extraction of interaction patterns**, potentially guiding design rules for scaffold exploration and optimization toward KOR selectivity.
+The integration of multi-channel spatiotemporal descriptors (combined with data obtained from additional KOR complexes; proposed ligands seen in Figure 3) would provide dynamic fingerprinting data for **machine learning-assisted extraction of interaction patterns**, potentially guiding design rules for scaffold exploration and optimization toward KOR selectivity.
 
-While the animations shown in Figures 1–6 are visual representations, the underlying data could be extracted in numerical form.
+While the animations shown in Figures 1 and 2 are visual representations, the underlying data could be extracted in numerical form.
 
 <p align="center">
   <img src="images/kor_salA_hbonds_opt.gif" width="500">
 </p>
 <p align="center">
   <em>Figure 2 - Hydrogen bonding dynamic profile of the KOR–SalA complex.</em>
-</p>
-
-<p align="center">
-  <img src="images/kor_salA_charge_opt.gif" width="500">
-</p>
-<p align="center">
-  <em>Figure 3 - Interpolated charge dynamic profile of the KOR–SalA complex.</em>
-</p>
-
-<p align="center">
-  <em>Figure 4 - Hydrophobicity dynamic profile of the KOR–SalA complex.</em>
-</p>
-
-<p align="center">
-  <em>Figure 5 - Ionizability dynamic profile of the KOR–SalA complex.</em>
-</p>
-
-<p align="center">
-  <em>Figure 6 - Solvent-Accessible Surface Area dynamic profile of the KOR–SalA complex.</em>
 </p>
 
 <p align="center">
@@ -71,9 +52,6 @@ In addition, other compounds previously reported in the literature as KOR-select
 ---
 
 ### Simulation status and information
-The preliminary molecular dynamics simulations are currently ongoing.  
-
-The analyses and results presented correspond to partial trajectories (29 ns) obtained from a planned 200 ns production run.
 
 The Salvinorin A structure was obtained from the Automated Topology Builder (ATB) and Repository. KOR structure was retrieved from Protein Data Bank (PDB ID 6B73).
 
