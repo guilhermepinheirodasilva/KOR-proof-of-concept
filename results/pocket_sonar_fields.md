@@ -11,21 +11,21 @@ All animations shown below are intended for qualitative inspection only.
 Aromaticity
 </p>
 <p align="center">
-<img src="kor_salA_aromaticity_op.gif" width="500">
+<img src="https://raw.githubusercontent.com/guilhermepinheirodasilva/KOR-proof-of-concept/main/images/kor_salA_aromaticity_op.gif" width="500">
 </p>
 
 <p align="center">
 Hydrogen Bonding
 </p>
 <p align="center">
-<img src="kor_salA_hbonds_opt.gif" width="500">
+<img src="https://raw.githubusercontent.com/guilhermepinheirodasilva/KOR-proof-of-concept/main/images/kor_salA_hbonds_opt.gif" width="500">
 </p>
 
 <p align="center">
 Interpolated Charge
 </p>
 <p align="center">
-<img src="kor_salA_charge_opt.gif" width="500">
+<img src="https://raw.githubusercontent.com/guilhermepinheirodasilva/KOR-proof-of-concept/main/images/kor_salA_charge_opt.gif" width="500">
 </p>
 
 <p align="center">
