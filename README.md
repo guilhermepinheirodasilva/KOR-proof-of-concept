@@ -45,7 +45,7 @@ The complete collection of spatiotemporal pocket field visualizations is availab
   <img src="images/ligands.jpg" width="700">
 </p>
 <p align="center">
-  <em>Figure 7 - Chemical structures of representative ligands to be investigated in the project.</em>
+  <em>Figure 3 - Chemical structures of representative ligands to be investigated in the project.</em>
 </p>
 
 The SalB metabolite (compound 4) is inactive at KOR; however, it exhibits high structural similarity to SalA. Analyzing its interaction field may be relevant, serving as a structural “negative control” within the chemical space for scaffold hopping.
